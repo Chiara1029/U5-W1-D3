@@ -23,6 +23,6 @@ class ExerciseApplicationTests {
 		assertEquals(table1, table2.getTable());
 	}
 
-	
+
 
 }
